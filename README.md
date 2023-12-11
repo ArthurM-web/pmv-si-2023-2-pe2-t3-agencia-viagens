@@ -1,16 +1,15 @@
-# Nome do projeto
+# Agência de Viagens
 
-Escreva um ou dois parágrafos resumindo o objetivo de seu projeto.
+Devido as mudanças do mercado de agências de viagens com o aumento da concorrência impulsionada pela busca por serviços personalizados e opções online, a modernização visa automatizar processos, reduzir erros e aprimorar a experiência do cliente. O projeto busca criar um sistema para diminuir mão de obra, eliminar erros humanos e agilizar os processos. A automação busca atender às necessidades do setor e elevar o padrão de serviço, assim possui foco no gerenciamento de turistas, pacotes e compra de pacotes.
 
 ## Integrantes
 
-* Nome completo do aluno 1
-* Nome completo do aluno 2
-* Nome completo do aluno 3
-* Nome completo do aluno 4
-* Nome completo do aluno 5
-* Nome completo do aluno 6
+* Warley Junio Martins Vieira
+* Victor Henrique Pereira
+* Arthur Medeiros de Moraes
+* Lucas Warley Matos Nascimento
+* Theo Xavier Lopes
 
 ## Professor
 
-* Nome completo do professor
+* Juliana Amaral Baroni de Carvalho 

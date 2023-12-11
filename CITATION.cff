@@ -1,18 +1,16 @@
 # YAML 1.2
 ---
 authors: 
-  - family-names: sobrenome do aluno 1
-    given-names: Nome do aluno 1 
-  - family-names: sobrenome do aluno 2
-    given-names: Nome do aluno 2 
-  - family-names: sobrenome do aluno 3
-    given-names: Nome do aluno 3 
-  - family-names: sobrenome do aluno 4
-    given-names: Nome do aluno 4 
-  - family-names: sobrenome do aluno 5
-    given-names: Nome do aluno 5 
-  - family-names: sobrenome do aluno 6
-    given-names: Nome do aluno 6
+  - family-names: Junio Martins Vieira
+    given-names: Warley
+  - family-names: Henrique Pereira
+    given-names: Victor
+  - family-names: Medeiros de Moraes
+    given-names: Arthur
+  - family-names: Warley Matos Nascimento
+    given-names: Lucas 
+  - family-names: Xavier Lopes
+    given-names: Theo 
     
     - name-suffix: Professor
     affiliation: PUC Minas
@@ -23,15 +21,17 @@ authors:
 cff-version: "1.1.0"
 keywords: 
   - "Modelagem de Processos de Negócios"
-  - "Palavra chave 2"
-  - "Palavra chave 3"
+  - "Agência de Viagens"
+  - "Viagem"
+  - "Pacotes de Viagens"
+  - "Pacote de Viagem"
 message: |
-    "If you use this software, please cite it using these metadata.
-    Se você utilizar este software, por favor cite-o utilizando estes metadados."
-repository-code: "https://github.com/url do projeto"
-title: "Título do projeto"
+    "Projeto do 2º Eixo para o curso de Sistemas de Informação da Pontifícia Universidade Católica de Minas Gerais (PUC MINAS). 
+    Link de referência: https://github.com/ICEI-PUC-Minas-PMV-SI/pmv-si-2023-2-pe2-t3-agencia-viagens/tree/master "
+repository-code: "https://github.com/ICEI-PUC-Minas-PMV-SI/pmv-si-2023-2-pe2-t3-agencia-viagens/tree/master"
+title: "Agência de Viagens"
 abstract: |
     "
-    Breve descrição do projeto
+    Devido as mudanças do mercado de agências de viagens com o aumento da concorrência impulsionada pela busca por serviços personalizados e opções online, a modernização visa automatizar processos, reduzir erros e aprimorar a experiência do cliente. O projeto busca criar um sistema para diminuir mão de obra, eliminar erros humanos e agilizar os processos. A automação busca atender às necessidades do setor e elevar o padrão de serviço, assim possui foco no gerenciamento de turistas, pacotes e compra de pacotes.
     "
 ...

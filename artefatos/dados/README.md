@@ -4,11 +4,10 @@ Este diretório mantém os artefatos relacionados à modelagem de dados do proje
 
 Os principais documentos a serem produzidos são:
 
+### `diagrama entidade-relacionamento (DER)`
 
-* `diagrama entidade-relacionamento (DER)`
-	* Apresentar o DER em imagem vetorial para evitar perda de qualidade com renderização em resolução específica.
+![DER.png](DER.png)
 
-* `modelo relacional`
-	* Apresentar o modelo relacional em imagem vetorial para evitar perda de qualidade com renderização em resolução específica.
+### `modelo relacional`
 
-Demais artefatos que julgar pertinentes.
+![modelo_relacional.png](modelo_relacional.png)
